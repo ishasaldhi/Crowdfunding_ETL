@@ -12,7 +12,7 @@ I used extracted and transformed the crowdfunding data using Python, Pandas, and
 * Using ERD and CSV files in order to create a PostgreSQL database and populate tables
 
 ## Installation
-1. Clone reposittory
+1. Clone repository
 2. Install pandas, datetime Python packages
 3. Set up PostgreSQL and create database called crowdfunding_db
 
